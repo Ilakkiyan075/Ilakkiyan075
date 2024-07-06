@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ilakkiyan075/Ilakkiyan075](https://github.com/Ilakkiyan075/Ilakkiyan075)
 
-- 💬 Ask me about **Python, Machine learning, HTML, CSS**
+- 💬 Ask me about **Python, Machine learning, HTML, CSS, R Programming, Power BI**
 
 - 📫 How to reach me **ilakkiyan075@gmail.com**
 
