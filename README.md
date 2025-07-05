@@ -49,14 +49,15 @@
 
 ### 📄 Resume & Portfolio
 
-- 📑 [My Resume (PDF)](https://github.com/Ilakkiyan075/Ilakkiyan075/blob/main/Ilakkiyan_Resume.pdf)
+- 📑 [My Resume (PDF)](https://github.com/Ilakkiyan075/Ilakkiyan075/blob/main/Ilakkiyan_Resume.pdf.pdf)
 - 🗂️ [All Projects & Code](https://github.com/Ilakkiyan075)
+- [ Portfolio Website](https://lovable.dev/projects/f004a3e4-b368-48ed-ad8f-a1d294373746)
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: ilakkiyan075@gmail.com  
+- 📧 Email: ilakkiyan065@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ilakkiyan-g-349a6b255)  
 - 🐙 [GitHub](https://github.com/Ilakkiyan075)  
 - 📷 [Instagram](https://instagram.com/-ilakki-007)
