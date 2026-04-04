@@ -22,6 +22,7 @@
 
 ---
 
+
 ### 📊 Projects
 
 - **🧠 Diabetes Prediction** – Built a PyTorch-based neural network with 77% accuracy
